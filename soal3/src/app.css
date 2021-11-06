@@ -1,0 +1,67 @@
+
+.div{
+    float: right;
+    margin-right:50px;
+    margin-top: 10px;
+}
+.div3{
+    width: 115px;
+    background-color:rgba(7, 38, 39, 0.404) ;
+    border: 1px solid rgba(87, 84, 84, 0.986) ;
+    box-shadow: 1px 2px 7px 0px  grey;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.div1{
+    border: 5px solid rgba(6, 64, 66, 0.404) ;
+    width: 1200px;
+    height:230px;
+    background-color: rgb(255, 255, 255);
+    
+     border-radius: 15px;
+     text-align: center;
+     box-shadow: 1px 5px 14px 0px  grey;
+     position: relative;
+    top: 96px;
+    
+    left:155px;
+
+    }
+    .div-details{
+        border: 5px solid rgba(6, 64, 66, 0.404) ;
+        background-color: rgb(255, 255, 255);
+        margin-top: 10px;
+         border-radius: 15px;
+         text-align: right;
+         box-shadow: 1px 5px 14px 0px  grey;
+        padding-right: 5px;
+       
+    
+        
+        }
+       .sobh{
+        position: relative;
+        left:-23px;
+        top: 0px;
+       }
+       .tolo{
+        position: relative;left:-20px;top: 0px;
+       }
+       .zohr{
+        position: relative;left:-26px;top: 0px;
+       }
+       .asr{
+        position: relative;left:-20px;top: 0px;
+       }
+       .ghorob{
+        position: relative;left:-19px;top: 0px;
+       }
+       .maghreb{
+        position: relative;left:-22px;top: 0px;
+       }
+       .esha{position: relative;left:-29px;top: 0px;}
+
+       .nime{
+        position:relative; left:-7px;top: 0px;
+       }
+       

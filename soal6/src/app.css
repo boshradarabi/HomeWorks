@@ -1,0 +1,119 @@
+.div1{
+    border: 5px solid rgba(87, 84, 84, 0.986) ;
+    width: 350px;
+    height: 380px;
+    background-color: rgba(240, 232, 238, 0.856);
+     margin-left: 300px;
+     margin-right: 20px;
+     margin-top: 50px;
+     padding-top: 20px;
+     padding-left: 20px;
+     border-radius: 15px;
+     text-align: center;
+     box-shadow: 1px 5px 14px 0px  grey;}
+
+
+.input2{
+    width: 300px;
+    height: 25px;
+    margin-top: 20px;
+    outline:none;
+    border: 0.5px solid rgba(189, 185, 185, 0.603);
+    font-size: xx-small;
+    padding-left: 10px;
+}
+.input4{
+    width: 318px;
+    height: 25px;
+    margin-top: 20px;
+    outline:none;
+    border: 1px solid rgba(189, 185, 185, 0.603);
+    font-size: xx-small;
+    padding-left: 10px;
+    
+}
+.sumbit{
+    width: 318px;
+    height: 25px;
+    margin-top: 20px;
+    outline:none;
+    border: 1px solid rgba(189, 185, 185, 0.603);
+    font-size:small;
+    background-color: rgba(0, 0, 0, 0.616);
+    color: gainsboro;
+    padding-left: 10px;
+    
+}
+.input3{
+   
+    margin-top: 20px;
+    outline:none;
+    border: 1px solid rgba(189, 185, 185, 0.603);
+    font-size: xx-small;
+    padding-left: 10px;
+
+}
+.input1{
+    width: 300px;
+    height: 25px;
+    margin-top: 20px;
+    outline:none;
+    border: 0.5px solid rgba(189, 185, 185, 0.603);
+    font-size: xx-small;
+    padding-left: 10px;
+
+}
+.input5{
+    width: 250px;
+    height: 25px;
+    margin-top: 20px;
+    outline:none;
+    border: 0.5px solid rgba(189, 185, 185, 0.603);
+    font-size: xx-small;
+    
+
+}
+.input6{
+    width: 265px;
+    height: 25px;
+    margin-top: 20px;
+    outline:none;
+    border: 0.5px solid rgba(189, 185, 185, 0.603);
+    font-size: xx-small;
+    
+
+}
+.input-group{
+    width: 350px;
+    height: 25px;
+}
+.span1{
+    font-size: larger;
+    border: 0.5px solid rgba(189, 185, 185, 0.603);
+    position: relative;
+    top: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 4px;
+    padding-left: 4px;
+    text-align: center;
+}
+.span2{
+    font-size: larger;
+    border: 0.5px solid rgba(189, 185, 185, 0.603);
+    position: relative;
+    top: 3px;
+    padding:3px 1px 3px 1px;
+    text-align: center;
+}
+.span3{
+    font-size:xx-small;
+    border: 0.5px solid rgba(189, 185, 185, 0.603);
+    position: relative;
+   
+   padding-top: 9px;
+   padding-bottom: 8px;
+   padding-left: 2px;
+   padding-right: 2px;
+    text-align: center;
+}

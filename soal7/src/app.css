@@ -1,0 +1,82 @@
+#div1 {
+  border: 5px solid rgba(6, 64, 66, 0.404);
+  width: 400px;
+  height: 500px;
+  background-color: rgb(100, 99, 98);
+
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 1px 5px 14px 0px grey;
+  position: relative;
+  top: 27px;
+
+  left: 465px;
+}
+
+.input1 {
+  width: 250px;
+  height: 30px;
+  margin-top: 20px;
+  outline: none;
+  border: 0.5px solid rgba(189, 185, 185, 0.603);
+  font-size: x-small;
+  padding-left: 10px;
+
+  box-shadow: 1px 2px 7px 0px grey;
+  background-color: rgba(228, 247, 247, 0.815);
+}
+.input2 {
+  width: 200px;
+  height: 25px;
+  margin-top: 20px;
+  outline: none;
+  border: 0.5px solid rgba(189, 185, 185, 0.603);
+  font-size: xx-small;
+  padding-left: 10px;
+  border: 1px solid rgba(87, 84, 84, 0.986);
+  box-shadow: 1px 2px 7px 0px grey;
+  border-radius: 5px;
+  background-color: rgba(228, 247, 247, 0.815);
+  margin-left: 10px;
+}
+
+.span1 {
+  font-size: larger;
+  border: 0.5px solid rgba(189, 185, 185, 0.603);
+  position: relative;
+  top: 3px;
+  padding-top: 6px;
+  padding-bottom: 5px;
+  padding-right: 4px;
+  padding-left: 4px;
+  text-align: center;
+  background-color: rgba(228, 247, 247, 0.815);
+}
+
+.select {
+  position: relative;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgb(145, 189, 174);
+  border: 1px solid rgba(87, 84, 84, 0.986);
+  box-shadow: 1px 2px 7px 0px grey;
+  width: 213px;
+  height: 25px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.submit {
+  position: relative;
+  top: 11px;
+  background-color: rgb(14, 53, 56);
+  border: none;
+  color: cornsilk;
+  border-radius: 5px;
+  width: 100px;
+}
+
+.span3 {
+  position: relative;
+  left: -46px;
+}
